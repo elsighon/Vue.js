@@ -1,0 +1,35 @@
+{
+    "name": "Game",
+    "games": [
+      {
+        "name": "Minecraft",
+        "photo": "Minecraft.jpg",
+        "prix": "15€",
+        "disponibilite": "Disponible"
+      },
+      {
+        "name": "Overwatch",
+        "photo": "Overwatch.jpg",
+        "prix": "20€",
+        "disponibilite": "Disponible"
+      },
+      {
+        "name": "League of legends",
+        "photo": "league-of-legends.jpg",
+        "prix": "5€",
+        "disponibilite": "Indisponible"
+      },
+      {
+        "name": "Super Smash Bros",
+        "photo": "SSB.jpg",
+        "prix": "40€",
+        "disponibilite": "Disponible"
+      },
+      {
+        "name": "Adibou",
+        "photo": "Adibou.jpg",
+        "prix": "10€",
+        "disponibilite": "Disponible"
+      }
+    ]
+  }
